@@ -1,3 +1,3 @@
 # Krunch Clone
-## live Demo(https://krunch.netlify.app/)
+## live Demo(https://krunch12.netlify.app/)
 ![Krunch screenshot](./krunch.png)
